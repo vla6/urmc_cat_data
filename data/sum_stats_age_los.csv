@@ -1,0 +1,3 @@
+Variable,Minimum,Maximum,Mean,Median,Std Deviation,Skewness,Kurtosis
+AGE (Age in years at admission),0.00,90.00,50.78,58.00,27.49,-0.5034258,-0.8926554
+LOS (Length of stay (cleaned)),0.00,365.00,5.07,3.00,8.07,11.6595529,273.663407

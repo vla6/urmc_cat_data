@@ -1,0 +1,60 @@
+Variable / Label,N,Minimum,Maximum,Mean,Median,Sum
+HOSP_NIS: NIS hospital number,6743716,1,4181,2082.6,2094,14044336678
+NIS_STRATUM: NIS hospital stratum,6743716,1,96,47.1,39,317812633
+AGE: Age in years at admission,6743095,0,90,50.8,58,342406431
+AGE_NEONATE: Neonatal age (first 28 days after birth) indicator,755609,0,1,0.9,1,712896
+AMONTH: Admission month,6732188,1,12,6.6,7,44123378
+AWEEKEND: Admission day is a weekend,6743683,0,1,0.2,0,1458574
+DIED: Died during hospitalization,6741528,0,1,0.0,0,153892
+DISCWT: NIS discharge weight,6743716,5,5,5.0,5,33718585
+DISPUNIFORM: Disposition of patient (uniform),6741528,1,99,2.7,1,18480069
+DQTR: Discharge quarter,6732205,1,4,2.5,3,16934341
+DRG: DRG in effect on discharge date,6743716,1,999,552.7,620,3726943135
+DRGVER: DRG grouper version used on discharge date,6743716,40,41,40.3,40,271479808
+DRG_NOPOA: DRG in use on discharge date calculated without POA,6743716,1,999,552.4,620,3724914781
+ELECTIVE: Elective versus non-elective admission,6731313,0,1,0.2,0,1146947
+FEMALE: Indicator of sex,6742490,0,1,0.6,1,3726068
+HCUP_ED: HCUP Emergency Department service indicator,6743716,0,4,0.7,1,4909441
+110_BIRTH: ICD-10-CM Birth Indicator,6743716,0,3,0.1,0,687143
+110_DELIVERY: ICD-10-CM Delivery Indicator,6743716,0,1,0.1,0,685154
+110_INJURY: Injury ICD-10-CM diagnosis reported on record (1: First-listed injury; 2: Other than first-listed injury; 0: No injury),6743716,0,2,0.1,0,878580
+110_MULTINJURY: Multiple ICD-10-CM injuries reported on record,6743716,0,1,0.0,0,269694
+110_NDX: ICD-10-CM Number of diagnoses on this record,6743716,0,40,13.8,13,92726906
+110_NPR: ICD-10-PCS Number of procedures on this record,6743716,0,25,1.8,1,11887724
+110_SERVICELINE: ICD-10-CM/PCS Hospital Service Line,6743716,1,5,3.7,4,24927111
+LOS: Length of stay (cleaned),6741564,0,365,5.1,3,34149183
+MDC: MDC in effect on discharge date,6743716,0,25,10.2,10,68927616
+MDC_NOPOA: MDC in use on discharge date calculated without POA,6743716,0,25,10.2,10,68979088
+PAY1: Primary expected payer (uniform),6725995,1,6,2.1,2,14098170
+PCLASS_ORPROC: Indicates operating room (major diagnostic or therapeutic) procedure on the record,6743716,0,1,0.3,0,1705972
+PRDAY1: Number of days from admission to 110_PR1,4137762,-4,366,1.4,0,5643407
+PRDAY2: Number of days from admission to 110_PR2,2591939,-4,366,1.8,1,4579536
+PRDAY3: Number of days from admission to 110_PR3,1558204,-4,366,2.1,1,3240340
+PRDAY4: Number of days from admission to 110_PR4,1013312,-4,366,2.5,1,2553957
+PRDAY5: Number of days from admission to 110_PR5,663215,-4,365,3.1,1,2068039
+PRDAY6: Number of days from admission to 110_PR6,439624,-4,365,3.8,1,1679460
+PRDAY7: Number of days from admission to 110_PR7,270893,-4,365,4.6,1,1240325
+PRDAY8: Number of days from admission to 110_PR8,195056,-4,365,5.4,2,1059033
+PRDAY9: Number of days from admission to 110_PR9,145223,-4,365,6.3,2,908895
+PRDAY10: Number of days from admission to 110_PR10,110348,-4,366,7.1,3,779538
+PRDAY11: Number of days from admission to 110_PR11,81599,-4,366,8.1,3,659010
+PRDAY12: Number of days from admission to 110_PR12,63924,-4,366,9.0,4,577943
+PRDAY13: Number of days from admission to 110_PR13,48214,-4,366,10.0,5,480166
+PRDAY14: Number of days from admission to 110_PR14,38569,-4,366,10.9,5,418959
+PRDAY15: Number of days from admission to 110_PR15,31684,4,365,11.9,6,375821
+PRDAY16: Number of days from admission to 110_PR16,26287,-4,362,12.7,6,333089
+PRDAY17: Number of days from admission to 110_PR17,22010,-4,365,13.8,7,303354
+PRDAY18: Number of days from admission to 110_PR18,18583,-4,362,14.6,8,271852
+PRDAY19: Number of days from admission to 110_PR19,15866,-4,362,15.7,8,248843
+PRDAY20: Number of days from admission to 110_PR20,12738,-3,362,16.9,9,214698
+PRDAY21: Number of days from admission to 110_PR21,10625,-3,345,17.9,10,190250
+PRDAY22: Number of days from admission to 110_PR22,9072,-2,366,19.0,10,172264
+PRDAY23: Number of days from admission to 110_PR23,7588,-4,359,20.3,11,154351
+PRDAY24: Number of days from admission to 110_PR24,6664,-2,351,21.3,11,142218
+PRDAY25: Number of days from admission to 110_PR25,5843,-3,353,22.3,12,130442
+TRAN_IN: Transfer in indicator,6708311,0,2,0.2,0,1007754
+TRAN_OUT: Transfer out indicator,6741528,0,2,0.3,0,1981229
+YEAR: Calendar year,6743716,2023,2023,2023.0,2023,13642537468
+ZIPINC_QRTL: Median household income national quartile for patient ZIP Code,6624348,1,4,2.3,2,15382138
+TOTCHG_2023: Total charges adjusted for national estimates,6700121,103,11278286,76295.9,40621,511191853831
+PL_NCHS2: Patient Location: NCHS Urban-Rural Code (collapsed),6674409,21,22,21.2,21,141199093
